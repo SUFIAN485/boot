@@ -1,0 +1,13 @@
+.con{
+    height: 200px;
+    width: 800px;
+    margin-top: 50px;
+    /* border: 2px solid crimson; */
+    
+}
+.conv{
+    height: 200px;
+    width: 800px;
+    
+    border: 2px solid crimson;
+}
